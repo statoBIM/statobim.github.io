@@ -1,12 +1,12 @@
 # Site settings
-title: STaToBIM
-email: statobim@gmail.com
+title: "STaToBIM"
+email: "statobim@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 #twitter_username:
-github_username: statobim
+github_username: "statobim"
 
 # Build settings
 markdown: kramdown
